@@ -1,0 +1,12 @@
+.container {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: #c1dd20;
+    color: #1bbb66;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: left 0.5s, top 0.5s;
+}
